@@ -1,7 +1,7 @@
 ## About me
-Hi 👋 I'm Victoria and I'm a **Data Analyst and Scientist**. That means I like looking at raw data, cleaning, tidying it up 🧹 and organising it so I can ask questions to it 🔍. Questions like: how often does X happen? Does X happen usually at the same time as Z? Is that a coincidence or are they working together? Can one predict the other? You could say it's a bit of detective work 🕵️‍♀️ where I apply analytical thinking, creativity, and statistical knowledge 📈.
+Hi 👋 I'm Victoria and I'm a **Data Analyst and Scientist**. That means I like looking at raw data, cleaning, tidying it up 🧹 and organising it so I can ask questions to it 🔍. Questions like: *How often does X happen?* *Does X happen usually at the same time as Z?* *Is that a **coincidence or are they working together**?* *Can one **predict** the other?* You could say it's a bit of detective work 🕵️‍♀️ where I apply analytical thinking, creativity, and statistical knowledge 📈.
 
-In the world of data, there are many tools 🛠️ that help us do everything I described above and more, and it seems like every month there's a new one. To stay up to date I create little projects with real or augmented data where i get to try these new tools. So far, these are my favourites: 
+In the world of data, there are many tools 🛠️ that help us do everything I described above and more, and it seems like every month there's a new one. To stay up to date I create little projects with real or augmented data where i get to try these new tools 🤓. So far, these are my favourites: 
 
 #### 💻 Coding languages and IDE 
 - python
@@ -10,6 +10,7 @@ In the world of data, there are many tools 🛠️ that help us do everything I 
 - R
 - Jupyter Notebook
 - Google Colab
+- Visual Studio
 
 
 #### ✨ Visualization ✨
