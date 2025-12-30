@@ -19,7 +19,11 @@ In the world of data, there are many tools 🛠️ that help us do everything I 
 - Mixpanel
 
 -------
-Among my public repos you will find my [Specialization thesis on Data Science](https://github.com/VicColombo/linea_137_llamados_vs/blob/main/_latex/en_specialization_thesis%20(1).pdf), a sample [Looker Studio dashboard](https://github.com/VicColombo/looker_portfolio), and a sample [A/B testing notebook](https://github.com/VicColombo/AB_testing/blob/master/landing_page.ipynb). 
+Among my public repos you will find my [Specialization thesis on Data Science](https://github.com/VicColombo/linea_137_llamados_vs/blob/main/_latex/en_specialization_thesis%20(1).pdf). In it, I used statistical and algebraic techniques to try to impute missing data on a real sexual and domestic violence dataset. 
+
+You will also find a sample [Looker Studio dashboard](https://github.com/VicColombo/looker_portfolio), and a sample [A/B testing notebook](https://github.com/VicColombo/AB_testing/blob/master/landing_page.ipynb). 
+
+I also have turned some of my past work into medium articles which you can read [here](https://medium.com/@victoriacolombo).
 <!--
 **VicColombo/VicColombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
