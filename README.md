@@ -1,5 +1,5 @@
 ## About me
-I'm a **Data Scientist**. I use analytical thinking, creativity, and statistical knowledge 📈 to get stories out of data. I ask it my questions and get some answers (🧜‍♀️). Questions like: *How often does X happen?* *Does X happen usually at the same time as Z?* *Is that a **coincidence or are they working together**?* *Can one **predict** the other?* 
+I'm a **Data Scientist**. I use analytical thinking, creativity, and statistical knowledge 📈 to get stories out of data. I ask it my questions and get some answers 🧜‍♀️. Questions like: *How often does X happen?* *Does X happen usually at the same time as Z?* *Is that a **coincidence or are they working together**?* *Can one **predict** the other?* 
 
 While statistical techniques usually remain the same, new tools for handling and exploring data seem to pop up constantly. To stay up to date I create side projects and experiments to try things out 🔎. 
 
